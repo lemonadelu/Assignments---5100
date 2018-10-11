@@ -7,7 +7,7 @@ should not contain leading or trailing spaces.
 3.You need to reduce multiple spaces between two words to a single space in the reversed
 string.
 */
-
+//score 2/2
 package reverseString;
 
 import java.util.regex.Pattern;
