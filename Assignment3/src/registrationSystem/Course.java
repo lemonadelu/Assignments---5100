@@ -8,7 +8,7 @@ import registrationSystem.Course.Student;
 
 //public class RegistrationSystem {
 
-	
+	// score 5/5
 public class Course{
 
 		private static String name;
