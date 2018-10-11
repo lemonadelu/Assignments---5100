@@ -1,5 +1,5 @@
 //write a Java program that uses polymorphism and abstract classes and methods.
-
+// score 5/5 
 package moody;
 
 abstract class Moody {
